@@ -88,9 +88,6 @@ count: false
   + Datum: `date`
   + Ort: `cvplace`
   + Abschnitte: `cvlist`
-- abgeleitet von `letter`-Klasse
-  + angepasst auf DIN 676
-- inkl. Serienbrieffunktionalität
 - Alternativen, e.g.
   + [vita](https://ctan.org/pkg/vita)
   + [cv](https://ctan.org/pkg/cv)
