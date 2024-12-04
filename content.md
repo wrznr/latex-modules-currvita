@@ -25,7 +25,7 @@ layout: true
       <td style="text-align:left">Referat 4.3</td>
     </tr>
     <tr>
-      <td style="font-size:8pt"><b>03.07.2023</b></td>
+      <td style="font-size:8pt"><b>04.12.2024</b></td>
     </tr>
     <tr>
       <td style="font-size:8pt">LaTeX@SLUB</td>
