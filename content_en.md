@@ -64,9 +64,9 @@ count: false
 .fifty[
 - LaTeX as part of the library's educational offerings
 - **Goals:**
-  + Establish LaTeX as a typesetting program
-  + Strengthen *computer literacy*
-  + Support scientific professionalism
+  + Establish LaTeX as a typesetting program: Empower you to create professional documents
+  + Strengthen *computer literacy* for academic and professional success
+  + Support scientific professionalism: Provide tools for high-quality scientific communication
 ]
 .fifty[
 <img src="img/program_en.svg">
@@ -84,7 +84,7 @@ count: false
 
 # LaTeX Package currvita
 
-- All CV elements as predefined macros, e.g.
+- All CV elements as predefined **semantic** macros, e.g.
   + Date: `date`
   + Place: `cvplace`
   + Sections: `cvlist`
